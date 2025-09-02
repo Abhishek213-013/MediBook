@@ -171,15 +171,15 @@ src/
 
 12. **🤝 Contributing**
 
-    # Fork the project
+    - Fork the project
 
-    # Create your feature branch (git checkout -b feature/AmazingFeature)
+    - Create your feature branch (git checkout -b feature/AmazingFeature)
 
-    # Commit your changes (git commit -m 'Add some AmazingFeature')
+    - Commit your changes (git commit -m 'Add some AmazingFeature')
 
-    # Push to the branch (git push origin feature/AmazingFeature)
+    - Push to the branch (git push origin feature/AmazingFeature)
 
-    # Open a Pull Request
+    - Open a Pull Request
 
 13. **📄 License**
 
