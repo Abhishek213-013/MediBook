@@ -67,7 +67,7 @@ A modern, responsive Doctor Appointment Management System built with Next.js tha
 
 2. **Install dependencies**
     - npm install
-        # or
+         or
     - yarn install
 
 3. **Environment Setup**
@@ -77,7 +77,7 @@ A modern, responsive Doctor Appointment Management System built with Next.js tha
 
 4. **Run the development server**
     - npm run dev
-        # or
+         or
     - yarn dev
 
 5. **Open your browser**
