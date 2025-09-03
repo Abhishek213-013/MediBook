@@ -257,7 +257,7 @@ export default function HomePage() {
       {/* Footer */}
       <footer className="bg-white mt-20 py-8 border-t border-gray-200">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <p className="text-gray-600">© 2024 MediBook. All rights reserved.</p>
+          <p className="text-gray-600">© 2025 MediBook. All rights reserved.</p>
           <p className="text-gray-500 text-sm mt-2">
             Need help? Contact us at{" "}
             <a href="mailto:support@medibook.com" className="text-blue-600 hover:underline">
